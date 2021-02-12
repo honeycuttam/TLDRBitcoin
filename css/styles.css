@@ -1,0 +1,50 @@
+body {
+  font-family: "Ubuntu bold italic", gotham; 
+}
+
+header {
+  padding: 156px 0 156px;
+} 
+
+#header-background {
+  background: url(https://freecoyn.com/wp-content/uploads/2017/10/earn-free-bitcoin-online-header.jpg);
+  background-size: 100% 100%;
+  margin-top: 56px;
+}
+
+section {
+  padding: 2em 0;
+  margin: 2em 0;
+}
+
+h3 {
+  color: #fd7e14;
+}
+
+div.card-header:hover, a.nav-link:hover {
+  background-color: #fd7e14;
+  cursor: pointer;
+}
+
+div.card-header:hover a {
+  color: white;
+  text-decoration: none;
+}
+
+a.nav-link:hover a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+h3.card-header {
+  background-color: #fd7e14;
+}
+
+h3, h4 {
+  text-align: center;
+}
